@@ -1,4 +1,8 @@
 
+<head>
+  <link rel="stylesheet" href="typewriter.css">
+</head>
+
 <div class="typewriter">
   <h1>The cat and the hat.</h1>
 </div>

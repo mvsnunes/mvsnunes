@@ -1,10 +1,8 @@
 <h2 style="color:#81a1c1">Hello! I'm Marcus Nunes <br> Electrical engineering student</h2>
 
 <blockquote>
-        <p>All you have to decide is what to do with the time that is given to you.</p>
+        <p>All you have to decide is what to do with the time that is given to you. (Gandalf)</p>
     </blockquote>
-    <figcaption>—Gandalf</figcaption>
-</figure>
 
 
 

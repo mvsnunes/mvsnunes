@@ -1,4 +1,7 @@
-<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&duration=3000&pause=1&color=81A1C1&vCenter=true&multiline=true&width=435&lines=Hello!+I'am+Marcus+Nunes;Electrical+engineering+student+" alt="Typing SVG" /></p>
+
+<div class="typewriter">
+  <h1>The cat and the hat.</h1>
+</div>
 
 
 

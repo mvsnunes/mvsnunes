@@ -1,2 +1,2 @@
 
-<p style="text-align: center;"> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mvsnunes&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)</p>
+<a style="text-align: center;" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DenverCoder1"/></a>

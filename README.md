@@ -1,4 +1,6 @@
 
-<h1 style="color:#81A1C1FF">Hello! I'm Marcus Nunes </h1>
-
+<font color="#81A1C1FF">   
+<h1 >Hello! I'm Marcus Nunes </h1>
+<h2 >Electrical engineering student</h2>
+</font>
 <p align="center" href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=mvsnunes&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D"/> </p>
